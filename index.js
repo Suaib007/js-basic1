@@ -21,15 +21,6 @@ console.log('Hello ji version 2.0');
 
 // arr.forEach(number => console.log(number))
 
-let numbers=[1,2,-1,-4];
-
-let filtered = ;
-
-let items =numbers
-            .filter(value => value >= 0)
-            .map(num =>{(value: num)}); 
-
-console.log(items);
 
 // arr.forEach(function(number){
 //    console.log(number);
@@ -179,3 +170,4 @@ console.log(items);
 // console.log(words);
 // let date = new Date();
 // console.log(date);
+
